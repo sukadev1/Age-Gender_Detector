@@ -18,10 +18,10 @@ simple age and gender detection using python and machine learning
 
 ## Sample outputs:-
 ### Sample output 1
-![Sample output 1]()
+![Sample output 1](https://github.com/sukadev1/Age-Gender_Detector/blob/main/output_image_1.png)
 ### Sample output 2
-![Sample output 1]()
+![Sample output 1](https://github.com/sukadev1/Age-Gender_Detector/blob/main/output_image_2.png)
 ### Sample output 3
-![Sample output 1]()
+![Sample output 1](https://github.com/sukadev1/Age-Gender_Detector/blob/main/output_image_3.png)
 ### Sample output 4
-![Sample output 1]()
+![Sample output 1](https://github.com/sukadev1/Age-Gender_Detector/blob/main/output_image_4.png)
