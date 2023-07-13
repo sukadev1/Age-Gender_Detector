@@ -9,7 +9,7 @@ simple age and gender detection using python and machine learning
 
 ## To run this model yourself
 1. Clone this repository
-2. Download the dataset from [here](https://ww.kaggle.com/jangedoo/utkface-new).
+2. Download the dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new).
 3. Extract the dataset to your repository folder
 4. open the [Model jupyter notebook](https://github.com/sukadev1/Age-Gender_Detector/blob/main/Gui.py) file
 5. Upload the image you want to detect
