@@ -15,3 +15,13 @@ simple age and gender detection using python and machine learning
 5. Upload the image you want to detect
 6. Click on detect button
 7. View results
+
+## Sample outputs:-
+### Sample output 1
+![Sample output 1]()
+### Sample output 2
+![Sample output 1]()
+### Sample output 3
+![Sample output 1]()
+### Sample output 4
+![Sample output 1]()
